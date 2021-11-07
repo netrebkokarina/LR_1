@@ -1,0 +1,16 @@
+git add
+git status
+git diff
+git difftool
+git commit
+git reset
+git rm
+git mv
+git clean
+git branch
+git checkout
+git merge
+git mergetool
+git log
+git stash
+git tag
